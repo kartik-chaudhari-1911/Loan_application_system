@@ -22,9 +22,3 @@
 - Start the application:
   - npm run server
 
-## API Endpoints
- - POST /add-student - Add a new student
- - POST /add-course - Add a new course
- - POST /enroll-student - Enroll a student in a course
- - GET /student-courses/:studentId - Get all courses a student is enrolled in
- - GET /course-enrollments/:courseId - Get all students in a course
