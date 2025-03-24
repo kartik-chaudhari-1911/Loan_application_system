@@ -15,7 +15,7 @@
 
 ## Installation
 - Clone the repository:
-  - git clone https://github.com/username/loan-application-system.git-
+  - https://github.com/kartik-chaudhari-1911/Loan_application_system.git
 -  Install dependencies for both frontend and backend:
   - cd loan-application-system
   - npm install
